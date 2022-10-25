@@ -1,7 +1,7 @@
 # RockPaperScissorsByIliyana
 This is a simple console game "Rock   Paper  Scissors"
 
-Rock Paper Scissors is a game played with the palms of the hands.
+**Rock Paper Scissors** is a game played with the palms of the hands.
 
  <img src="one.png" alt="img" height="166" width="177">
 
